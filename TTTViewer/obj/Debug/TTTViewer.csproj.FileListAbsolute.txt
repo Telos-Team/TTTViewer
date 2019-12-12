@@ -1,0 +1,7 @@
+c:\Users\mn\Documents\Visual Studio 2015\Projects\TTTViewer\TTTViewer\bin\Debug\TTTViewer.dll
+c:\Users\mn\Documents\Visual Studio 2015\Projects\TTTViewer\TTTViewer\bin\Debug\TTTViewer.pdb
+c:\Users\mn\Documents\Visual Studio 2015\Projects\TTTViewer\TTTViewer\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.dll
+c:\Users\mn\Documents\Visual Studio 2015\Projects\TTTViewer\TTTViewer\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.xml
+c:\Users\mn\Documents\Visual Studio 2015\Projects\TTTViewer\TTTViewer\obj\Debug\TTTViewer.dll
+c:\Users\mn\Documents\Visual Studio 2015\Projects\TTTViewer\TTTViewer\obj\Debug\TTTViewer.pdb
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTViewer\TTTViewer\obj\Debug\TTTViewer.csprojResolveAssemblyReference.cache
